@@ -1,0 +1,2 @@
+AirRelax is a Python-based Airport Lounge Management System designed to streamline the management of airport lounge areas, passengers, and reservations. It allows users to add, update, view, and delete records, with a focus on providing an intuitive and efficient user experience through a Tkinter-based GUI and MySQL backend.
+
