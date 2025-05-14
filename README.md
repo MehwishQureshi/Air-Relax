@@ -13,7 +13,7 @@ This system allows the management of lounge reservations, guest details, and mor
   - **Reservations** ⏰
 - **Guest Management**: Keep track of guest details and their lounge bookings.
 - **Reservation Handling**: Easily manage lounge reservations and availability.
-- 
+
 ## 📌 Technology Stack
 
 - **Python 3**: The core programming language used for building the system.
